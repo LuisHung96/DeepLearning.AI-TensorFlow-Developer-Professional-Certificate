@@ -9,11 +9,21 @@
 - ---
 
 ## <b>About this Professional Certificate<b>
-Welcome to my repository for the **DeepLearning.AI TensorFlow Developer Professional Certificate** course! Here, I share my resources, such as evaluated projects, quizzes, and practice labs developed during the program. In this course, I learned to build, train, and optimize *Deep Learning* models using *TensorFlow 2.x* and *Keras*. The course covers key applications in computer vision, natural language processing, and time series prediction. Additionally, various neural network architectures are employed, including CNNs, GRUs, and LSTMs, exploring different optimization and monitoring tools and techniques to improve model performance during training, such as optimization algorithms (Adam, SGD, RMSprop), regularization techniques (L1, L2, Dropout), data handling (data augmentation, batch normalization), and the use of callbacks. It also covers data preparation techniques and fundamental concepts of sequential models, loss functions, and evaluation metrics.
+Welcome! This repository is a collection of the work I completed while earning the **_TensorFlow Developer Professional Certificate_** from **_DeepLearning.AI_**.
 
-This educational program immerses you in the exciting world of *Deep Learning* with the *TensorFlow* framework, providing you with a solid foundation to build and train deep learning models, and tackle real-world challenges.
+Throughout the course, I gained hands-on experience in building and training deep learning models using **_TensorFlow 2.x_** and **_Keras_**. The program covered key areas such as computer vision, natural language processing, and time series forecasting. I explored different types of neural networks, including CNNs, GRUs, and LSTMs, and learned how to apply them to real-world problems.
 
-Explore these exercises and projects in this space!
+Along the way, I also developed a solid understanding of:
+
+* Optimization techniques like Adam, SGD, and RMSprop
+* Regularization strategies such as L1/L2 and Dropout
+* Data preprocessing and augmentation
+* Batch normalization and callbacks
+* Loss functions, evaluation metrics, and sequential model design
+
+This course was a deep dive into the world of deep learning, offering both theoretical knowledge and practical experience. It helped me build a strong foundation in **_TensorFlow_** and gave me the tools to train effective models for a variety of AI tasks.
+
+Feel free to browse through the projects and practice exercises I've shared here. Hope you find them useful!
 
 Please, check **<i>[Coursera Honor Code](https://www.coursera.support/s/article/209818863-Coursera-Honor-Code?language=en_US)</i>** before you take a look at the assignments.
 
