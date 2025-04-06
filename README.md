@@ -1,6 +1,6 @@
-# <b>DeepLearning.AI-Tensorflow-Developer-Profesional-Certificate<b>
+# <b>DeepLearning.AI-TensorFlow-Developer-Professional-Certificate<b>
 
-[![Made with Google Colab](https://img.shields.io/badge/Made%20with-Google%20Colab-yellow?style=for-the-badge&logo=Google%20Colab)](https://colab.research.google.com/) [![Made with Tensorflow](https://img.shields.io/badge/Framework-TensorFlow-green)](https://www.tensorflow.org/) ![Crates.io](https://img.shields.io/crates/l/rustc-serialize?style=flat-square)
+[![Made with Google Colab](https://img.shields.io/badge/Made%20with-Google%20Colab-yellow?style=for-the-badge&logo=Google%20Colab)](https://colab.research.google.com/) [![Made with Tensorflow](https://img.shields.io/badge/Framework-TensorFlow-green)](https://www.tensorflow.org/) ![Crates.io](https://img.shields.io/crates/l/rustc-serialize?style=flat-square) [![GitHub last commit](https://img.shields.io/github/last-commit/LuisHung96/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate?color=red)](https://github.com/LuisHung96/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate)
 
 ![](https://github.com/LuisHung96/DeepLearning.AI-Tensorflow-Developer-Profesional-Certificate/blob/main/resources/images/course.JPG)
 
