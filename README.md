@@ -4,8 +4,8 @@
 
 ![](https://github.com/LuisHung96/DeepLearning.AI-Tensorflow-Developer-Profesional-Certificate/blob/main/resources/images/course.JPG)
 
-### Instructed by [<img src="https://github.com/LuisHung96/DeepLearning.AI-Tensorflow-Developer-Profesional-Certificate/blob/main/resources/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
-### Offered by [<img src="https://github.com/LuisHung96/DeepLearning.AI-Tensorflow-Developer-Profesional-Certificate/blob/main/resources/deeplearning_logo.png" width="200"/>](https://www.deeplearning.ai)
+### Instructed by [<img src="https://github.com/LuisHung96/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/resources/images/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
+### Offered by [<img src="https://github.com/LuisHung96/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/resources/images/deeplearning_logo.png" width="200"/>](https://www.deeplearning.ai)
 - ---
 
 ## <b>About this Professional Certificate<b>
